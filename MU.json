@@ -1,11 +1,17 @@
-{ 
-  "ver":1.0, 
-  "se":{ 
-    "26":{"url":"https://raw.githubusercontent.com/ReinesElMelloiArchisorte/-a-daL-lJ4--6k-iVYs0D/main/eR3$zP@s8!hK7^wQ5yF/act_pon.mp3"}, 
-    "28":{"url":"https://raw.githubusercontent.com/ReinesElMelloiArchisorte/-a-daL-lJ4--6k-iVYs0D/main/eR3$zP@s8!hK7^wQ5yF/act_kan.mp3"}, 
-    "30":{"url":"https://raw.githubusercontent.com/ReinesElMelloiArchisorte/-a-daL-lJ4--6k-iVYs0D/main/eR3$zP@s8!hK7^wQ5yF/act_chi.mp3"}, 
-    "32":{"url":"https://raw.githubusercontent.com/ReinesElMelloiArchisorte/-a-daL-lJ4--6k-iVYs0D/main/eR3$zP@s8!hK7^wQ5yF/act_rich.mp3"}, 
-    "34":{"url":"https://raw.githubusercontent.com/ReinesElMelloiArchisorte/-a-daL-lJ4--6k-iVYs0D/main/eR3$zP@s8!hK7^wQ5yF/act_ron.mp3"}, 
-    "36":{"url":"https://raw.githubusercontent.com/ReinesElMelloiArchisorte/-a-daL-lJ4--6k-iVYs0D/main/eR3$zP@s8!hK7^wQ5yF/act_tumo.mp3"} 
-  } 
+{
+  "版本":1.0,
+  "se":{
+    "25":{"url":"https://github.com/ReinesElMelloiArchisorte/MY0486/blob/main/YY/Mpon.mp3"},
+    "26":{"url":"https://github.com/ReinesElMelloiArchisorte/MY0486/blob/main/YY/Fpon.mp3"},
+    "27":{"url":"https://github.com/ReinesElMelloiArchisorte/MY0486/blob/main/YY/Mkan.mp3"},
+    "28":{"url":"https://github.com/ReinesElMelloiArchisorte/MY0486/blob/main/YY/Fkan.mp3"},
+    "29":{"url":"https://github.com/ReinesElMelloiArchisorte/MY0486/blob/main/YY/Mchi.mp3"},
+    "30":{"url":"https://github.com/ReinesElMelloiArchisorte/MY0486/blob/main/YY/Fchi.mp3"}
+	"31":{"url":"https://github.com/ReinesElMelloiArchisorte/MY0486/blob/main/YY/Mrich.mp3"},
+    "32":{"url":"https://github.com/ReinesElMelloiArchisorte/MY0486/blob/main/YY/Frich.mp3"},
+    "33":{"url":"https://github.com/ReinesElMelloiArchisorte/MY0486/blob/main/YY/Mron.mp3"},
+    "34":{"url":"https://github.com/ReinesElMelloiArchisorte/MY0486/blob/main/YY/Fron.mp3"},
+    "35":{"url":"https://github.com/ReinesElMelloiArchisorte/MY0486/blob/main/YY/Mtumo.mp3"},
+    "36":{"url":"https://github.com/ReinesElMelloiArchisorte/MY0486/blob/main/YY/Ftumo.mp3"}
+  }
 }
